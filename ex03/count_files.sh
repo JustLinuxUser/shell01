@@ -1,1 +1,1 @@
-find . | wc -l
+find . | wc -l| xargs
